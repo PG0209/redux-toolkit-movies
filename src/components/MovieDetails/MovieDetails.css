@@ -1,0 +1,23 @@
+.movie-section{
+    height: 76vh;
+    display: flex;
+    align-items: center;
+}
+
+.sectionright{
+    flex: 1;
+    width: 100%;
+    margin-left: 50px;
+}
+h2{
+    margin: 0 120px;
+}
+span{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white
+}
